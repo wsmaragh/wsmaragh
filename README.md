@@ -1,3 +1,3 @@
 ### Hi, Im Winston! 👋
-- 🌱 Senior iOS Engineer, currently learning React Native and Java/Android.
+- 🌱 Senior iOS Engineer. I also play around with React Native, Java/Android, and Python
 - 👯 I’m looking to collaborate on any cool projects.
